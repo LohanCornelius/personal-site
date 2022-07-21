@@ -1,0 +1,171 @@
+/**********TAG SELECTORS**********/
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 650%;
+  margin-top: 0px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 0.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border: none;
+  border-top: 6px dotted #2C3639;
+  color: #EAF6F6;
+  background-color: #fff;
+  height: 1px;
+  width: 5%;
+}
+
+/**********CLASS SELECTORS**********/
+.top-container {
+  background-color: #EAF6F6;
+  height: 452px;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+.middle-container {
+  margin-top: 70px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 25px;
+  font-size: 10px;
+
+}
+
+.links {
+  word-spacing: 20px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 250px;
+}
+
+.mountain {
+  position: absolute;
+  display: inline-block;
+  top: 295px;
+  right: 360px;
+}
+
+.hello-desc {
+  margin-bottom: 30px;
+}
+
+.skills {
+  margin-top: 35px;
+
+}
+
+.myskills {
+  display: inline-block;
+  margin: 0;
+}
+
+.skill-row {
+  padding-top: 20px;
+  width: 50%;
+  margin: 20px auto 30px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.trading {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.people {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button-style {
+  margin-top: 10px;
+  height: 25px;
+  width: 100px;
+  display: inline-block;
+  background-color: #66BFBF;
+  border-radius: 5px 5px 5px 5px;
+  border-width: 0px;
+}
+
+.myskillscolor {
+
+  color: #11999E;
+}
+
+.tradingcolor {
+  color: #11999E;
+}
+
+.peoplecolor {
+  color: #11999E;
+}
+
+.footer-link {
+  color: white;
+  text-decoration: none;
+
+}
+
+.contact-desc {
+  margin-bottom: 40px;
+}
+
+.name2 {
+  display: block;
+
+}
+
+/**********ID SELECTORS**********/
+#profilephoto {
+  border-radius: 50%;
+}
+
+#whatiam {
+  position: absolute;
+  font-size: 2.5rem;
+  left: 37%;
+  top: 210px;
+}
